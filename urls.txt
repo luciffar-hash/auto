@@ -1,0 +1,5 @@
+https://luciffar-ods.streamlit.app/
+https://luciffar-yturl.streamlit.app/
+https://luciffar-py.streamlit.app/
+https://luciffar-thinktank.streamlit.app/ 
+https://luciffar.streamlit.app/
